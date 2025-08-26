@@ -106,7 +106,7 @@ Engage in symbolic file manipulation rituals with the "Digital Alchemy" module:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/chaos-engine.git
+    git clone https://github.com/clebmb/chaos-engine.git
     cd chaos-engine
     ```
 2.  **Install dependencies:**
